@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestMatLabXRK-2017", "TestMatLabXRK-2017.vcxproj", "{8FEF5C24-50CB-43D0-BFEA-B3617FCB75AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugU|x64 = DebugU|x64
+		DebugU|x86 = DebugU|x86
+		ReleaseU|x64 = ReleaseU|x64
+		ReleaseU|x86 = ReleaseU|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FEF5C24-50CB-43D0-BFEA-B3617FCB75AA}.DebugU|x64.ActiveCfg = DebugU|x64
+		{8FEF5C24-50CB-43D0-BFEA-B3617FCB75AA}.DebugU|x64.Build.0 = DebugU|x64
+		{8FEF5C24-50CB-43D0-BFEA-B3617FCB75AA}.DebugU|x86.ActiveCfg = DebugU|Win32
+		{8FEF5C24-50CB-43D0-BFEA-B3617FCB75AA}.DebugU|x86.Build.0 = DebugU|Win32
+		{8FEF5C24-50CB-43D0-BFEA-B3617FCB75AA}.ReleaseU|x64.ActiveCfg = ReleaseU|x64
+		{8FEF5C24-50CB-43D0-BFEA-B3617FCB75AA}.ReleaseU|x64.Build.0 = ReleaseU|x64
+		{8FEF5C24-50CB-43D0-BFEA-B3617FCB75AA}.ReleaseU|x86.ActiveCfg = ReleaseU|Win32
+		{8FEF5C24-50CB-43D0-BFEA-B3617FCB75AA}.ReleaseU|x86.Build.0 = ReleaseU|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE714A6-82BE-4DEA-93D4-CE5D892420F9}
+	EndGlobalSection
+EndGlobal
