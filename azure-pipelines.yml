@@ -36,4 +36,4 @@ steps:
     configuration: '$(buildConfiguration)'
 
 - publish: EXE
-  artifact: EXE
+  artifact: TestMatLabXRK
