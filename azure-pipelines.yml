@@ -3,11 +3,14 @@
 # Add steps that publish symbols, save build artifacts, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/apps/windows/dot-net
 
+# YAML Schema reference: https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema
+# VM List:  https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops
+
 trigger:
 - master
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: 'vs2017-win2016'
 
 variables:
   solution: '**/*.sln'
